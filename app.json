@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gitnetwork",
+    "slug": "gitnetwork",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gitnetwork"
+}
