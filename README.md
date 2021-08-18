@@ -2,7 +2,7 @@
 
 O App Git Network desenvolvido em React Native utiliza a API do GitHub para adquirir informações de usuários. <br/>
 * Na primeira tela é possível adicionar usuário pelo nickname e mostra em uma listagem onde é possivel visualizar mais informações ao clicar no icone.
-* Na segunda tela mostra os detalhes do GitHub do usuário e tambem é possível remove-lo da sua listagem.
+* Na segunda tela mostra os detalhes do GitHub do usuário e tambem é possível remove-lo da sua listagem. 
 
 ##
 
